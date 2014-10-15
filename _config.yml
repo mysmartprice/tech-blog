@@ -10,7 +10,7 @@ url: http://localhost:4000
 
 # Jekyll configuration
 
-permalink:   /:title/
+permalink:  /:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -33,6 +33,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Arun Chinnachamy
+  copyright: MySmartPrice
   avatar: bio-photo.jpg
   email: arun@mysmartprice.com
   disqus-shortname:

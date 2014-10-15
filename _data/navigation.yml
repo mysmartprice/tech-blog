@@ -1,16 +1,13 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: http://www.mysmartprice.com/about/
 
-- title: Articles
-  url: /articles/
+- title: Posts
+  url: /posts/
 
-- title: Blog
-  url: /blog/
+- title: Team
+  url: /team/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: MySmartPrice
+  url: http://www.mysmartprice.com
