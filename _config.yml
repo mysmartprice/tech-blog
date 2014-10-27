@@ -5,7 +5,7 @@ locale: en_US
 description: MySmartPrice Engineering Blog - Just crawling !!
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://tech.mysmartprice.com
 
 
 # Jekyll configuration
